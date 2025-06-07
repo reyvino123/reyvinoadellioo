@@ -2,5 +2,8 @@ import streamlit as st
 
 st.title("🎈reyvinoadellioo")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+    "selamat datang di web reyvinoadellio" )
+ st.write("ngoding seru bersama reyvinoadellio")
+
+st.image("IMG-20250607-WA0019.jpg" width=200)
+st.image("IMG-20250607-WA0019.jpg", width=200)
